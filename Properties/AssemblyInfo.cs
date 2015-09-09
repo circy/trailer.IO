@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("trailerIO")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("4plus GmbH")]
+[assembly: AssemblyCompany("Sebastian Kreissl @circyde")]
 [assembly: AssemblyProduct("trailerIO")]
-[assembly: AssemblyCopyright("Copyright © 4plus GmbH 2015")]
+[assembly: AssemblyCopyright("Copyright © Sebastian Kreissl 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
